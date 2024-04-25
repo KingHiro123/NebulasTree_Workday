@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<c:out value="PLEASE FKING WORK" />
+	<c:out value="Is this working?" />
 </body>
 </html>
