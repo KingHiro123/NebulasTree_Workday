@@ -4,9 +4,13 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title> Registration Form </title>
 </head>
 <body>
-<h1> WALAO, CAN DUN BE STUBBORN OR NOT WTF</h1>
+	<div id="Personal">
+	 <form>
+	 	
+	 </form>
+	</div>
 </body>
 </html>
